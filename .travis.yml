@@ -7,7 +7,9 @@ env:
 
 android:
   components:
-
+    - tools
+    - build-tools-24.0.1
+    - android-29
     # Additional components
     - extra-google-google_play_services
     - extra-google-m2repository
